@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Ok i am learning this weird branch thing of github
